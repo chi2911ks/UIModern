@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="nav">
+    <file>icons/logo/cb.png</file>
+    <file>icons/close-mini-1522-svgrepo-com.svg</file>
+    <file>icons/minimize-svgrepo-com.svg</file>
+    <file>icons/minus-svgrepo-com.svg</file>
+    <file>icons/square-svgrepo-com.svg</file>
+    <file>icons/logout-svgrepo-com.svg</file>
+    <file>icons/help-circle-svgrepo-com.svg</file>
+    <file>icons/support-svgrepo-com.svg</file>
+    <file>icons/settings-svgrepo-com.svg</file>
+    <file>icons/home-svgrepo-com.svg</file>
+  </qresource>
+</RCC>
